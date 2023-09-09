@@ -6,7 +6,7 @@ Welcome to our sophisticated To-Do application that empowers users to effortless
 
 Watch our application in action in the demo video below:
 
-[![Demo Video](ToDo-App_Thumbnail.jpg)](ToDo-App-Demo-Video.mp4)
+https://github.com/Paresh-Kumar14/todo-frontend1/assets/136735439/a9d6192d-0b9f-4923-bafd-74a606f042d3
 
 ## Live Application
 
